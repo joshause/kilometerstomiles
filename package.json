@@ -1,0 +1,35 @@
+{
+  "name": "kilometers-to-miles",
+  "title": "kilometerstomiles.js",
+  "version": "1.0.0",
+  "description": "Converts kilometers to miles",
+  "devDependencies": {
+    "jasmine": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshause/kilometerstomiles.js.git"
+  },
+  "keywords": [
+    "kilometers to miles",
+    "kilometerstomiles",
+    "kilometers-to-miles",
+    "kilometerstomiles.js",
+    "kilometer to mile",
+    "joshause"
+  ],
+  "author": "Josh Ause",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "jasmine tests/*.js"
+  },
+  "licenses": [{
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }],
+  "bugs": {
+    "url": "https://github.com/joshause/kilometerstomiles.js/issues"
+  }
+}
