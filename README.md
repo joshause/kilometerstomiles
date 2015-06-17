@@ -2,6 +2,9 @@
 
 JavaScript conversion of kilometers to miles.
 
+[![Build Status](https://travis-ci.org/joshause/kilometerstomiles.svg?branch=master)](https://travis-ci.org/joshause/kilometerstomiles)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
 ## Usage
 
 ### Node.js
