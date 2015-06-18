@@ -10,7 +10,7 @@ JavaScript conversion of kilometers to miles.
 ### Node.js
 
 ```js
-var KilometersToMiles = require("./kilometerstomiles");
+var KilometersToMiles = require("kilometerstomiles");
 var ktm = new KilometersToMiles();
 ktm.get(1);
 // => 0.621371
