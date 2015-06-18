@@ -1,7 +1,7 @@
 {
   "name": "kilometers-to-miles",
   "title": "kilometerstomiles.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "kilometerstomiles.js",
   "description": "Converts kilometers to miles",
   "devDependencies": {
